@@ -1,0 +1,6 @@
+-I
+include
+-I
+external/alpha/include
+-I
+external/png/include

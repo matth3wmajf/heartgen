@@ -1,0 +1,2 @@
+CompileFlags:
+	Add: [-I/include, -Iinclude, -I/external/alpha/include, -Iexternal/beta/include]
